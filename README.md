@@ -1,4 +1,4 @@
-# LiftedMango's-Pump
+# LiftedMango's-Pumper
 <i>A Simple Pump Script for easy strength XP</i>
 ## Features
 - Pumping :)
