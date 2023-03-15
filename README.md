@@ -7,7 +7,7 @@
 ## Code Integration
 
 - Add the .py file to "OSRS-Bot-COLOR\src\model\osrs"
-- In the init file add "from .WDWoodcutting import OSRSWDWoodcutting"
+- In the init file add "from .pumper import OSRSPumper"
 
 ## Setup
 - Mark Pump Pink
