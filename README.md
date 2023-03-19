@@ -13,3 +13,4 @@
 - Mark Pump Pink
 - move camera to birds eye view
 - start, sit back, and relax
+- *Make sure to not wear any items that make you animate. e.g.: Beach boxing gloves, boxing gloves, skis, etc*
